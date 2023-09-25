@@ -3,23 +3,27 @@
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
 - 😄 Pronouns: ele/dele
+- ❤  Apaixonado por Tecnologia e Programação
 
-<div align="center">
-  <a href="https://github.com/MagOss27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mag-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mag-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mag-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-</div>
+## Linguagens e Ferramentas
 
- ##
- 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React Native](https://img.shields.io/badge/-ReactNative-0A2930?style=flat&logo=React&logoColor=2ECFF2)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+## Estatísticas do Meu Perfil
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=radical)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=radical)](https://github.com/LuigiInt1)
+
+## Vamos nos Conectar!
+
 <div> 
   <a href="https://instagram.com/magnus_oss?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://wa.me/qr/XTC5WQI7CKBPC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
