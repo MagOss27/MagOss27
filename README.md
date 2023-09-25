@@ -25,6 +25,9 @@
 ## Vamos nos Conectar!
 
 <div> 
+  
+  Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
+  
   <a href="https://instagram.com/magnus_oss?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://wa.me/qr/XTC5WQI7CKBPC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
