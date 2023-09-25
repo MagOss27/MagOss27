@@ -1,4 +1,4 @@
-### Olá! Eu sou o Magnus Oss  
+# Olá! Eu sou o Magnus Oss 
 
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
