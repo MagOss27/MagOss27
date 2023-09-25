@@ -1,11 +1,11 @@
 # Olá! Eu sou o Magnus Oss 
 
-- 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
+- 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
 - 😄 Pronouns: ele/dele
 - ❤  Apaixonado por Tecnologia e Programação
 
-## Linguagens e Ferramentas
+## ♦ Linguagens e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,13 +16,15 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## Estatísticas do Meu Perfil
+## ♦ Estatísticas do Meu Perfil
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=radical)
+<div display: inline_block>
+  <a href = "https://github.com/MagOss27">
+   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=dark">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=dark"> 
+  </div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=radical)](https://github.com/LuigiInt1)
-
-## Vamos nos Conectar!
+## ♦ Vamos nos Conectar!
 
 <div> 
   
