@@ -23,8 +23,8 @@
 
 <div display: inline_block>
   <a href = "https://github.com/MagOss27">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=dark">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=dark"> 
+   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=MagOss27&show_icons=true&theme=tokyonight">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=tokyonight"> 
   </div>
 
 ## ♦ Vamos nos Conectar!
