@@ -5,7 +5,6 @@
 
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
-- 😄 Pronouns: ele/dele
 - ❤  Apaixonado por Tecnologia e Programação
 
 ## ♦ Linguagens e Ferramentas
@@ -36,6 +35,5 @@
   <a href="https://instagram.com/magnus_oss?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magnus-oss-6b018a297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
