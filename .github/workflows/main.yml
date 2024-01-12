@@ -1,16 +1,16 @@
-name: Gerar Dados
+name: Generate Datas
 
 on:
-  schedule: # executar a cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
-    name: Tarefas para atualizar dados
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Animação da Cobra
+      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
