@@ -2,6 +2,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   
+<img align="right"  src="https://github.com/HappyLuckYesterday/HappyLuckYesterday/blob/main/atomic.gif" alt="Atom" width="180" height="150"/>
 
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
