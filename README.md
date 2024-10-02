@@ -6,7 +6,6 @@
 
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
-- ❤  Apaixonado por Tecnologia e Programação
 
 ## ♦ Linguagens e Ferramentas
 
