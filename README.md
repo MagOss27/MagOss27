@@ -2,8 +2,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   
-<img align="right"  src="https://github.com/HappyLuckYesterday/HappyLuckYesterday/blob/main/atomic.gif" alt="Atom" width="180" height="150"/>
-
 - 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
 - 📫 Contacte-me no email: MagnusOss98@gmail.com 
 
@@ -39,5 +37,7 @@
   <a href="https://instagram.com/magnus_oss?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magnus-oss-6b018a297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<img src="https://raw.githubusercontent.com/VitorMatt/VitorMatt/output/snake.svg" alt="Snake animation" />
 
 </div>
