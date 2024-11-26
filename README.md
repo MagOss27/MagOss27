@@ -7,18 +7,11 @@
 
 ## ♦ Linguagens e Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-0A2930?style=flat&logo=React&logoColor=2ECFF2)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+<img width="400"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vite,vercel,figma" />
+  <br />
+  <img width="400"
+  src="https://skillicons.dev/icons?i=nodejs,java,spring,nest,mysql,mongodb,postgres,git,github" />
 
 ## ♦ Estatísticas do Meu Perfil
 
