@@ -8,7 +8,7 @@
 <li><a><img alt="GIF" src="Developer.gif" width="30px" />&nbsp; I'm always learning and improving my skills.</a></li>
 
 
-## ♦ Linguagens e Ferramentas
+## ♦ Languages and Tools
 
 <img width="400"
   src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,vite,vercel,figma" />
@@ -16,7 +16,7 @@
   <img width="400"
   src="https://skillicons.dev/icons?i=nodejs,java,spring,nest,mysql,mongodb,postgres,git,github" />
 
-## ♦ Estatísticas do Meu Perfil
+## ♦ My GitHub Stats
 
 <div display: inline_block>
   <a href = "https://github.com/MagOss27">
@@ -24,11 +24,11 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=tokyonight"> 
   </div>
 
-## ♦ Vamos nos Conectar!
+## ♦Let's Connect!
 
 <div> 
   
-  Fique à vontade para entrar em contato comigo! Vamos trocar ideias e conhecimento.
+  Feel free to reach out! Let’s share ideas and knowledge.
   
   <a href="https://www.instagram.com/magnus.oss?igsh=MTV4N2lwaWt0d3FydQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magnus-oss-6b018a297/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
