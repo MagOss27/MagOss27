@@ -2,8 +2,11 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
   
-- 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas no Senai
-- 📫 Contacte-me no email: MagnusOss98@gmail.com 
+<li><a><img alt="GIF" src="books.gif" width="30px" />&nbsp; I'm a programming student.</a></li>
+<li><a><img alt="GIF" src="laptop.gif" width="30px" />&nbsp; I actively participate in tech events and meetups.</a></li>
+<li><a><img alt="GIF" src="basketball.gif" width="30px" />&nbsp; I'm passionate about sports and stay physically active.</a></li>
+<li><a><img alt="GIF" src="Developer.gif" width="30px" />&nbsp; I'm always learning and improving my skills.</a></li>
+
 
 ## ♦ Linguagens e Ferramentas
 
