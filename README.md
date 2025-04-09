@@ -24,7 +24,7 @@
   <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagOss27&layout=compact&theme=tokyonight"> 
   </div>
 
-## ♦Let's Connect!
+## ♦ Let's Connect!
 
 <div> 
   
