@@ -29,7 +29,7 @@
 <div> 
   Feel free to reach out! Let’s share ideas and knowledge.  
   <br><br>
-  <a href="https://www.instagram.com/magnus.oss?igsh=MTV4N2lwaWt0d3FydQ==" target="_blank">
+  <a href="https://www.instagram.com/magnusoss?igsh=MTV4N2lwaWt0d3FydQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/magnus-oss-6b018a297/" target="_blank">
